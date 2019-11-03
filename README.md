@@ -26,5 +26,5 @@ As a final exercise, make the following items editable from the Unity inspector.
 * The color of the force field
 * The speed of the movement of the Voronoi effect
 
-When you’re done, you can either open the unity sample project linked in a mail you received earlier. Choose an effect and recreate it. We recommend the dissolve shader, and try to apply it to one of your own games (for example when an enemy dies).
+When you’re done, you can open the unity sample project linked in a mail you received earlier. Choose an effect and recreate it. We recommend the dissolve shader, and try to apply it to one of your own games (for example when an enemy dies).
 
